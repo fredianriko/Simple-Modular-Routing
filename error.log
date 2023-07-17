@@ -1,0 +1,6 @@
+error: This is an error message {"timestamp":"2023-07-16T11:49:17.896Z"}
+error: This is an error message {"timestamp":"2023-07-16T11:50:04.748Z"}
+[0m2023-07-16T16:29:13.068Z [[31MERROR[39M] This is an error log.[0m
+[0m2023-07-16T16:29:40.866Z [[31MERROR[39M] This is an error log.[0m
+2023-07-16T16:31:03.429Z [[31MERROR[39M] [31mhello[39m
+2023-07-16T16:31:18.083Z [[31MERROR[39M] [31mhello[39m
